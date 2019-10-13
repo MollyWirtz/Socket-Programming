@@ -1,7 +1,7 @@
 # Socket Programming
 CS 3516 Project 1
 
-This prject imlpements an HTTP client and server running a simplified version of the HTTP/1.1 protocol. 
+This C project imlpements an HTTP client and server running a simplified version of the HTTP/1.1 protocol.
 
 
 ## Compilation
